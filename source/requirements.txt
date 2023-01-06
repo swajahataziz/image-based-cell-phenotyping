@@ -1,0 +1,4 @@
+timm
+torchsummary
+tensorflow
+sagemaker
